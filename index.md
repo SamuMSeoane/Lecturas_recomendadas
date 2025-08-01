@@ -1,4 +1,5 @@
-Titulo
+Lecturas recomendadas
 ==============
 
-Presentación de la página
+Guías, resúmenes y bibliografías para aprender sobre diversos temas.
+
