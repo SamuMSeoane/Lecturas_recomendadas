@@ -1,2 +1,3 @@
-# Titulo de la página
-Introducción y resumen del objetivo de la web
+# Lecturas recomendadas
+
+Recopilación personal de guías y bibliografías para aprender más sobre diversos temas.
