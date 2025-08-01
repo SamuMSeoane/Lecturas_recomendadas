@@ -1,7 +1,7 @@
 
 [Inicio](index.md)
 
-[Menu 1](enconstruccion.md)
+[Educación canina](enconstruccion.md)
 
 [Menu 2](enconstruccion.md)
 
