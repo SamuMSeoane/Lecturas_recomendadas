@@ -1,7 +1,7 @@
 
 [Inicio](index.md)
 
-[Educación canina](xiana_edu_canina.md)
+[Educación canina](sites/xiana_edu_canina.md)
 
 [Náutica](enconstruccion.md)
 
