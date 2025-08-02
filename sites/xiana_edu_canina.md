@@ -33,15 +33,25 @@ Más o menos ordenados según nivel de experiencia y comprensión del lector:
     * Algo desactualizado pero vigente.
     * En inglés con vocabulario muy específico.
     * Para leer a pequeñas dosis
+ 
+      
+* [Manual de medicina del comportamiento](https://www.consultavet.org/producto-manual-de-medicina-del-comportamiento-54)
 
+    * La biblia made in Spain  
+
+* [Behavior Problems of the Dog and Cat](https://amzn.eu/d/7cpvKkn)
+
+    * El más actualizado hasta el momento, otro referente mundial, Landsberg
 
 
 ## Recomendaciones por referencias
 
 * [Emociones y lenguaje canino](https://www.casadellibro.com/libro-emociones-y-lenguaje-canino/9788412418538/14310542)
+
 * [Genios: Los perros son más inteligentes de lo que pensamos](https://www.casadellibro.com/libro-genios-los-perros-son-mas-inteligentes-de-lo-que-pensamos/9788494185212/2263741)
 
     * Para todos los públicos
+
 
 
 
