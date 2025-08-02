@@ -22,5 +22,5 @@
  * # División
  * [Submenu 4.1](enconstruccion.md)
 
-[gimmick:themechooser](Choose theme)
+[gimmick:theme](cyborg)
 
