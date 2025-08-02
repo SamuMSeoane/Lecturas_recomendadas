@@ -46,7 +46,7 @@ _"Lo pone en el Overall" (libro) o "segun Overall" (artículo) va a misa_
 
 
 Recomendaciones por referencias
-------------
+============
 
 
 ## Emociones y lenguaje canino
@@ -58,6 +58,7 @@ Recomendaciones por referencias
 [Enlace](https://www.casadellibro.com/libro-genios-los-perros-son-mas-inteligentes-de-lo-que-pensamos/9788494185212/2263741)
 
 * Para todos los públicos
+
 
 
 
