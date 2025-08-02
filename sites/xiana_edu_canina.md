@@ -8,14 +8,14 @@ Más o menos ordenados según nivel de experiencia y comprensión del lector:
 ## Libros para empezar
 
 * [Lenguaje canino: Una guía ilustrada](https://amzn.eu/d/9vSDkEI)
-  
+    
 * [Los perros y su mundo](https://amzn.eu/d/c6mWrlC)
-  
+    
 * [¡No lo mates... enséñale!: El arte de enseñar y adiestrar](https://amzn.eu/d/9e6FSu8)
   
     _"A día de hoy se considera demasiado conductista pero es un buen comienzo"_
     * Hay muchos factores en el aprendizaje que este libro no tiene en cuenta, pero es un buen comienzo.
-  
+    
 * [Entrenamiento para el ajuste del comportamiento BAT 2.0](https://www.iberlibro.com/9781539838401/Entrenamiento-Ajuste-Comportamiento-BAT-2.0-1539838404/plp)
 
     Muy práctico y enfocado a:
@@ -37,8 +37,9 @@ Más o menos ordenados según nivel de experiencia y comprensión del lector:
       
 * [Manual de medicina del comportamiento](https://www.consultavet.org/producto-manual-de-medicina-del-comportamiento-54)
 
-    * La biblia made in Spain  
-
+    * La biblia made in Spain
+ 
+    
 * [Behavior Problems of the Dog and Cat](https://amzn.eu/d/7cpvKkn)
 
     * El más actualizado hasta el momento, otro referente mundial, Landsberg
@@ -51,6 +52,7 @@ Más o menos ordenados según nivel de experiencia y comprensión del lector:
 * [Genios: Los perros son más inteligentes de lo que pensamos](https://www.casadellibro.com/libro-genios-los-perros-son-mas-inteligentes-de-lo-que-pensamos/9788494185212/2263741)
 
     * Para todos los públicos
+
 
 
 
