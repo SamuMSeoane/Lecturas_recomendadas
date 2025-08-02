@@ -35,7 +35,7 @@ Pero denso a la hora de su lectura
 
 ## Manual of Clinical Behavioral Medicine
 
-# ![Karen Overall](img/Overall_Manual_cover.jpg)
+![Karen Overall](img/Overall_Manual_cover.jpg)
 
 _"Lo pone en el Overall" (libro) o "segun Overall" (artículo) va a misa_
 
@@ -58,6 +58,7 @@ Recomendaciones por referencias
 [Enlace](https://www.casadellibro.com/libro-genios-los-perros-son-mas-inteligentes-de-lo-que-pensamos/9788494185212/2263741)
 
 * Para todos los públicos
+
 
 
 
