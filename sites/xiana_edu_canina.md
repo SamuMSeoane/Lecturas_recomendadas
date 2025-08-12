@@ -7,6 +7,10 @@ Más o menos ordenados según nivel de experiencia y comprensión del lector:
 
 ## Libros para empezar
 
+* [El lenguaje de los perros: Las señales de calma](https://www.amazon.es/dp/849332325X)
+
+    * __Leído por mí:__ Es un libro corto y muy sencillo de leer, pero lo que se comenta en él ha quedado en entredicho. En todo caso su relevancia radica en que fue revolucionario en su momento al mostrar un nuevo enfoque.
+
 * [Lenguaje canino: Una guía ilustrada](https://amzn.eu/d/9vSDkEI)
     
 * [Los perros y su mundo](https://amzn.eu/d/c6mWrlC)
@@ -52,6 +56,7 @@ Más o menos ordenados según nivel de experiencia y comprensión del lector:
 * [Genios: Los perros son más inteligentes de lo que pensamos](https://www.casadellibro.com/libro-genios-los-perros-son-mas-inteligentes-de-lo-que-pensamos/9788494185212/2263741)
 
     * Para todos los públicos
+
 
 
 
